@@ -2,14 +2,19 @@
 
 let vida = 0      
 
-while(vida < 5)
+while(vida < 20)
 {
     vida++
 }
 
-if(vida > 10)
+if(vida > 5 || vida < 10)
 {
-    console.log("Sua vida esta em: " + vida)
+    console.log("Utilize uma porcao de vida, sua vida esta baixa: " + vida)
+}
+
+else if(vida => 15)
+{
+    console.log("Sua vida esta cheia: " + vida)
 }
 
 else
