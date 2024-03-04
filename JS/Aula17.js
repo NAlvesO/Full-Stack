@@ -10,7 +10,7 @@ function sala(aluno = "Aluno", pc = "Windows") {
 // Com parametros definidos!
 
 sala("Marcos","Linux");
-sala("","Apple")
+sala("Apple")
 
 function sala(aluno = "Aluno", pc = "Windows") {
   console.log("O " + aluno + " utiliza o computador " + pc);
