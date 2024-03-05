@@ -1,4 +1,5 @@
-//Interpolacao de Funcoes! - Para utilizar apenas colocor "${variavel}" para add no meio do texto!
+//Interpolacao de Funcoes! - Para utilizar apenas colocor "${variavel}" para add no meio do texto
+// E add crase!!  `` para abrir o texto!!
 
 intepolation("Parametros","Nomes","Senhas aleatorias")
 
