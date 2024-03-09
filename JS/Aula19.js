@@ -21,3 +21,15 @@ function idadeMin(idadePessoa,idadeMinima)
 }
 
 console.log(`De acordo com a idade minima passada, a pessoa tem a idade: ${Idade}`)
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+let rastreio = Sangue("a","b")
+
+function Sangue(tipo1,tipo2)
+{
+    let tipoSanguineo = (tipo1) + (tipo2)
+    return tipoSanguineo
+}
+
+console.log(`O tipo sanguineo do paciente vai ser: ${rastreio}`)
