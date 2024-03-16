@@ -1,5 +1,19 @@
+~Front End - Direcionamentos:~
+
+-> Estudar:
+Figma: Video Aula ~ Fala Bondioli - Aulao de Figma - Criando uma Landing Page do zero!
+
+-> Boas praticas:
+Ter documentacao de Requisitos.
+
+- Fazer o Product Discovery - Descoberta do Produto. - Desenha oque precisa ser feito.(oque o cliente quer!):
+1 - Definicao do problema. (Entender a dor!)
+2 - Geracao de solucoes.
+3 - Validacao das solucoes.
+----------------------------------------------------------------------------------------------------------
 
 ~Criacao de um site:~
+
 -> Dominio:
 Nome do url
 
@@ -8,13 +22,15 @@ Basico: Hostgator/Locaweb  (Mais limitado e mais simples de fazer, por conta dis
 Avancado: AWS/Google Cloud Provider/Azure (Mais seguros, mais estabilidade.)
 
 -> DNS:
-
 Traduz o site(link/nome) para a rede(internet) para um endereco de ip, para que o cliente com ip possa 
 enviar para acessar o servidor. 
 
+-> Levantamento de Requisitos (Desenvolvedor com as demandas do cliente):
+Para ter limites, documentacao, saber a estimativa de custo e tempo.
+
+- Classificacao de Requisitos:
+1 - Requisitos Funcionais. (Regra de Negocio)
+2 - Requisitos nao Funcionais (Relacao a arquitetura/software)
+
 --------------------------------------------------------------------------------------------------------
-Front End - Direcionamentos:
 
-
--> Estudar:
-Figma: Video Aula ~ Fala Bondioli - Aulao de Figma - Criando uma Landing Page do zero!
