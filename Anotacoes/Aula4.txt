@@ -1,0 +1,3 @@
+-> Onde hospedar:  
+Basico: Hostgator/Locaweb  
+Avancado: AWS/Google Cloud Provider/Azure (Mais seguros, mais estabilidade.)
