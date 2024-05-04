@@ -1,0 +1,8 @@
+Direcionamentos:
+
+git add . (coloca todos os arquivos modificados na stage area!)
+
+git add caminho/teste-css/teste.css (coloca apenas o arquivo com o caminho colocado na stage area!)
+
+git add caminho/teste-css/ *css (coloca todos os arquivos *css "neste caso" na stage area!)
+
