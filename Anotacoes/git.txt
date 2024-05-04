@@ -6,3 +6,17 @@ git add caminho/teste-css/teste.css (coloca apenas o arquivo com o caminho coloc
 
 git add caminho/teste-css/ *css (coloca todos os arquivos *css "neste caso" na stage area!)
 
+---------------------------------------------------------------------------------------------------
+
+-> Para subir pastas no pc para github repository novo ja criado "site": (fisico -> remote)
+
+git remote add origin "+ caminho em SSH"
+
+-> Para clonar o git remote do site para seu pc! (remote -> fisico) 
+
+
+---------------------------------------------------------------------------------------------------
+
+
+!!!!!!!!!!!!!!!!PESQUISAR MAIS SOBRE PULL REQUESTS!!!!!!!!!!
+
