@@ -7,3 +7,9 @@ MID:
 
 FOCAR ANDROID(LINGUAGENS EXCLUSIVAS) + IOS(LINGUAGENS EXCLUSIVAS)
 
+--------------------------------------------------------------------------------------------------------
+
+Element(tag) é um ID que vai ter no HTML: 
+Exemplo: document.getElementByID("idteste").addEvenListener("click", function() {
+
+})
