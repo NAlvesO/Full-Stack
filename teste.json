@@ -1,0 +1,12 @@
+Executar json -- npx json-server teste.json --
+
+
+{
+    "usuarios": [
+    
+    {    "nome": "TESTE"
+        
+    
+    }
+    ]
+}
